@@ -13,3 +13,7 @@ pasta do modulo - $go get <url>
 
 
 JSON - método usado para trafegar dados
+
+
+go build -> cria o executável
+./nome -> roda o executavel no terminal
